@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n \n W1', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n \n', 'tags': '', 'url': 'About.html'}, {'title': '小組分組影片', 'text': '參考影片: https://www.youtube.com \n 我被分配到第31-36的影片', 'tags': '', 'url': '小組分組影片.html'}]};
